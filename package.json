@@ -1,0 +1,7 @@
+{
+  "name": "bad-guys-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node igra.js" },
+  "engines": { "node": ">=18" }
+}
